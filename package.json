@@ -4,6 +4,6 @@
   "private": true,
   "description": "Liora payment backend and admin dashboard",
   "engines": {
-    "node": ">=20"
+    "node": "22.x"
   }
 }
