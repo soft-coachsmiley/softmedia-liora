@@ -8,7 +8,7 @@
     "nodejs_compat"
   ],
   "assets": {
-    "directory": "./public",
+    "directory": "./admin",
     "binding": "ASSETS",
     "not_found_handling": "single-page-application"
   }
