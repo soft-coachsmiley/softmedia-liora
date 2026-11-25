@@ -2,7 +2,7 @@ const crypto = require("crypto");
 
 const { readJSON, writeJSON } = require("../../lib/github-storage");
 
-module.exports.config = {
+export const config = {
 
   api: {
 
