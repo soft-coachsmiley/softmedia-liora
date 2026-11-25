@@ -11,5 +11,9 @@
     "directory": "./admin",
     "binding": "ASSETS",
     "not_found_handling": "single-page-application"
+  },
+  "vars": {
+    "GITHUB_OWNER": "soft-coachsmiley",
+    "GITHUB_REPO": "softmedia-liora"
   }
 }
