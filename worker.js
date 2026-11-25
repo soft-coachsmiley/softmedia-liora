@@ -20,7 +20,7 @@ const routes = {
   "/api/payments/status": require("./api/payments/status"),
   "/api/payments/submit": require("./api/payments/submit"),
 
-  "/api/v2/movantra-webhook": require("./api/v2/movantra-webhook")
+ "/api/v2/movantra-webhook": require("./api/v2/movantra-webhook").default
 };
 
 async function handleAPI(request, handler) {
