@@ -70,5 +70,23 @@
     ],
     "reward": 5050,
     "updatedAt": "2026-11-26T07:29:03.389Z"
+  },
+  "creator-1": {
+    "creatorId": "creator-1",
+    "creatorName": "Mr Babs",
+    "products": [
+      {
+        "name": "SPAGHETTI",
+        "image": "https://raw.githubusercontent.com/soft-coachsmiley/softmedia-liora/main/uploads/recommendations/creator-1-12f44142-6d88-4a0d-a320-a489d0ea5d54-product-1.jpg",
+        "imagePath": "uploads/recommendations/creator-1-12f44142-6d88-4a0d-a320-a489d0ea5d54-product-1.jpg"
+      },
+      {
+        "name": "VEGETABLE OIL",
+        "image": "https://raw.githubusercontent.com/soft-coachsmiley/softmedia-liora/main/uploads/recommendations/creator-1-12f44142-6d88-4a0d-a320-a489d0ea5d54-product-2.jpg",
+        "imagePath": "uploads/recommendations/creator-1-12f44142-6d88-4a0d-a320-a489d0ea5d54-product-2.jpg"
+      }
+    ],
+    "reward": 7200,
+    "updatedAt": "2026-11-26T08:12:02.079Z"
   }
 }
