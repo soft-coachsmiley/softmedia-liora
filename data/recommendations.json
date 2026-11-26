@@ -34,5 +34,23 @@
     ],
     "reward": 5350,
     "updatedAt": "2026-11-26T07:14:23.568Z"
+  },
+  "creator-3": {
+    "creatorId": "creator-3",
+    "creatorName": "Two Glazzes",
+    "products": [
+      {
+        "name": "INSTAGRAM",
+        "image": "https://raw.githubusercontent.com/soft-coachsmiley/softmedia-liora/main/uploads/recommendations/creator-3-ba61007b-f657-46f1-9398-89540ee0f216-product-1.jpg",
+        "imagePath": "uploads/recommendations/creator-3-ba61007b-f657-46f1-9398-89540ee0f216-product-1.jpg"
+      },
+      {
+        "name": "FACEBOOK",
+        "image": "https://raw.githubusercontent.com/soft-coachsmiley/softmedia-liora/main/uploads/recommendations/creator-3-ba61007b-f657-46f1-9398-89540ee0f216-product-2.jpg",
+        "imagePath": "uploads/recommendations/creator-3-ba61007b-f657-46f1-9398-89540ee0f216-product-2.jpg"
+      }
+    ],
+    "reward": 4010,
+    "updatedAt": "2026-11-26T07:23:11.753Z"
   }
 }
