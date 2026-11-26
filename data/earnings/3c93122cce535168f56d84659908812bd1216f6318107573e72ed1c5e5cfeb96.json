@@ -3,8 +3,8 @@
   "balances": {
     "commission": 0,
     "leisure": 22539,
-    "video": 37856.12,
-    "total": 60395.12
+    "video": 44665.270000000004,
+    "total": 67204.27
   },
   "transactions": [
     {
@@ -86,7 +86,15 @@
       "source": "product-recommendation",
       "referenceId": "",
       "createdAt": "2026-11-26T08:06:18.211Z"
+    },
+    {
+      "id": "bokku:d7a85e10-634f-4e07-908b-9716f9f13a79",
+      "type": "video",
+      "amount": 6809.15,
+      "source": "brand-status",
+      "referenceId": "",
+      "createdAt": "2026-11-26T08:10:39.869Z"
     }
   ],
-  "updatedAt": "2026-11-26T08:06:18.211Z"
+  "updatedAt": "2026-11-26T08:10:39.869Z"
 }
