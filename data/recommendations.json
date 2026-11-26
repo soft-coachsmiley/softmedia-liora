@@ -16,5 +16,23 @@
     ],
     "reward": 4130,
     "updatedAt": "2026-11-26T07:09:32.591Z"
+  },
+  "creator-2": {
+    "creatorId": "creator-2",
+    "creatorName": "Purple Speedy",
+    "products": [
+      {
+        "name": "SUGAR",
+        "image": "https://raw.githubusercontent.com/soft-coachsmiley/softmedia-liora/main/uploads/recommendations/creator-2-61ece86e-6b99-4b3d-8e70-3a41e312f1d8-product-1.jpg",
+        "imagePath": "uploads/recommendations/creator-2-61ece86e-6b99-4b3d-8e70-3a41e312f1d8-product-1.jpg"
+      },
+      {
+        "name": "CEMENT",
+        "image": "https://raw.githubusercontent.com/soft-coachsmiley/softmedia-liora/main/uploads/recommendations/creator-2-61ece86e-6b99-4b3d-8e70-3a41e312f1d8-product-2.jpg",
+        "imagePath": "uploads/recommendations/creator-2-61ece86e-6b99-4b3d-8e70-3a41e312f1d8-product-2.jpg"
+      }
+    ],
+    "reward": 5350,
+    "updatedAt": "2026-11-26T07:14:23.568Z"
   }
 }
