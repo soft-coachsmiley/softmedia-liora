@@ -1,22 +1,4 @@
 {
-  "creator-5": {
-    "creatorId": "creator-5",
-    "creatorName": "Luta Editz",
-    "products": [
-      {
-        "name": "AC",
-        "image": "https://raw.githubusercontent.com/soft-coachsmiley/softmedia-liora/main/uploads/recommendations/creator-5-dfd44183-9c9d-4019-8b32-725aa625ee7e-product-1.jpg",
-        "imagePath": "uploads/recommendations/creator-5-dfd44183-9c9d-4019-8b32-725aa625ee7e-product-1.jpg"
-      },
-      {
-        "name": "REFRIGERATOR",
-        "image": "https://raw.githubusercontent.com/soft-coachsmiley/softmedia-liora/main/uploads/recommendations/creator-5-dfd44183-9c9d-4019-8b32-725aa625ee7e-product-2.jpg",
-        "imagePath": "uploads/recommendations/creator-5-dfd44183-9c9d-4019-8b32-725aa625ee7e-product-2.jpg"
-      }
-    ],
-    "reward": 5050,
-    "updatedAt": "2026-11-26T07:29:03.389Z"
-  },
   "creator-1": {
     "creatorId": "creator-1",
     "creatorName": "Mr Babs",
