@@ -8,5 +8,15 @@
     "passwordHash": "f263e0eafa84195b21be59e3cc3e6a2828de53a1da69e401fe273156b5d1b1981af075476303dd06ac4e0384902fccd8373645819e08c558be741cc2e292e4b5",
     "profileImage": "",
     "createdAt": "2026-11-26T06:46:18.053Z"
+  },
+  "isiauah@gmail.com": {
+    "fullName": "Khan Kansan",
+    "email": "isiauah@gmail.com",
+    "country": "NG",
+    "phone": "09013151158",
+    "passwordSalt": "fd5710652e93a101c39f7f4aa8ac2552",
+    "passwordHash": "1146f28fce919f85e1ace5db2274c18237dd82a84a213dbd82af82fab3a16fc9f1163ee6d6a025d5e94ec218da6e2848c03d8fa566d45f4881f7952d675edb18",
+    "profileImage": "",
+    "createdAt": "2026-11-27T11:22:42.921Z"
   }
 }
