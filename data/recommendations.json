@@ -1,22 +1,4 @@
 {
-  "creator-4": {
-    "creatorId": "creator-4",
-    "creatorName": "Smart BM",
-    "products": [
-      {
-        "name": "SOLAR LAMP",
-        "image": "https://raw.githubusercontent.com/soft-coachsmiley/softmedia-liora/main/uploads/recommendations/creator-4-a1cd38e0-fc0d-4633-ae24-f5623e9d50cf-product-1.jpg",
-        "imagePath": "uploads/recommendations/creator-4-a1cd38e0-fc0d-4633-ae24-f5623e9d50cf-product-1.jpg"
-      },
-      {
-        "name": "SOLAR FAN",
-        "image": "https://raw.githubusercontent.com/soft-coachsmiley/softmedia-liora/main/uploads/recommendations/creator-4-a1cd38e0-fc0d-4633-ae24-f5623e9d50cf-product-2.jpg",
-        "imagePath": "uploads/recommendations/creator-4-a1cd38e0-fc0d-4633-ae24-f5623e9d50cf-product-2.jpg"
-      }
-    ],
-    "reward": 3999,
-    "updatedAt": "2026-11-26T07:26:37.614Z"
-  },
   "creator-5": {
     "creatorId": "creator-5",
     "creatorName": "Luta Editz",
