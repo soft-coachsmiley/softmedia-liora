@@ -1,0 +1,28 @@
+{
+  "email": "isiauah@gmail.com",
+  "balances": {
+    "commission": 0,
+    "leisure": 0,
+    "video": 13343.02,
+    "total": 13343.02
+  },
+  "transactions": [
+    {
+      "id": "chowdeck:e8df0cf8-4273-4eb5-9f79-382d07d2c888",
+      "type": "video",
+      "amount": 7773.04,
+      "source": "brand-status",
+      "referenceId": "",
+      "createdAt": "2026-11-27T11:24:50.169Z"
+    },
+    {
+      "id": "sun-king:104292f3-0ce0-4061-93fa-ff2e998ca963",
+      "type": "video",
+      "amount": 5569.98,
+      "source": "brand-status",
+      "referenceId": "",
+      "createdAt": "2026-11-27T11:24:50.169Z"
+    }
+  ],
+  "updatedAt": "2026-11-27T11:24:50.169Z"
+}
