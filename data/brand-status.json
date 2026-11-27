@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "bcad4733-5299-4f26-ae9e-e2916dc8478e",
+      "brandId": "mtn",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/kXYkGkRM/1625ed2ce14add9cfd641c38702aa7cd.jpg",
+      "caption": "Everywhere you go",
+      "active": true,
+      "createdAt": "2026-11-27T06:54:58.439Z"
+    },
+    {
       "id": "893d4299-2a20-449c-88a2-aa3190d61e55",
       "brandId": "jumia",
       "mediaType": "image",
