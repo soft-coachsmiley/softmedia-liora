@@ -45,15 +45,6 @@
       "caption": "Order from us today",
       "active": true,
       "createdAt": "2026-11-27T06:46:41.235Z"
-    },
-    {
-      "id": "aac48908-5ae2-4f8f-9321-e973fe41638c",
-      "brandId": "opay",
-      "mediaType": "image",
-      "mediaUrl": "https://i.postimg.cc/kMp2PQ2w/f692231702deaeec08c5b21598142b65.jpg",
-      "caption": "Bank with us",
-      "active": true,
-      "createdAt": "2026-11-26T07:43:43.786Z"
     }
   ]
 }
