@@ -11,15 +11,6 @@
       "createdAt": "2026-11-27T06:46:41.235Z"
     },
     {
-      "id": "d7a85e10-634f-4e07-908b-9716f9f13a79",
-      "brandId": "bokku",
-      "mediaType": "image",
-      "mediaUrl": "https://i.postimg.cc/3rzDDsg0/8f34194671ffac0454163c1cea15c1f3.jpg",
-      "caption": "Shop from us",
-      "active": true,
-      "createdAt": "2026-11-26T08:09:30.680Z"
-    },
-    {
       "id": "da60c3d4-fb76-46c9-a727-c5d56d87b6b5",
       "brandId": "sun-king",
       "mediaType": "image",
