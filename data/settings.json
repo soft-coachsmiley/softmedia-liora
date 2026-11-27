@@ -1,0 +1,13 @@
+{
+  "paymentAmount": 15000,
+  "paymentMethods": {
+    "paga": true,
+    "manualBank": false
+  },
+  "manualBank": {
+    "accountNumber": "",
+    "bankName": "",
+    "accountName": ""
+  },
+  "adminName": "SOFT MEDIA"
+}
