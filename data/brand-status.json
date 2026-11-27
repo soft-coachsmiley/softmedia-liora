@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "1a6ca8c7-e033-4783-941c-495f76b434d3",
+      "brandId": "moniepoint",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/QtnM0fnt/4522db83868c51218231fc08c8f641b9.jpg",
+      "caption": "Bank with us",
+      "active": true,
+      "createdAt": "2026-11-27T06:49:58.256Z"
+    },
+    {
       "id": "484ad12e-a32c-4ff1-bdb4-a6d6fb69a945",
       "brandId": "okash",
       "mediaType": "image",
