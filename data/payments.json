@@ -1,0 +1,23 @@
+{
+  "payments": [
+    {
+      "id": "PAY-PAGA-88e0ce716756b07057ecaf2e",
+      "customerName": "John David",
+      "email": "joel88252@outlook.com",
+      "phone": "09136457812",
+      "amount": 15000,
+      "amountKobo": 1500000,
+      "method": "paga",
+      "reference": "lp_1795761792398_0e982edb7d",
+      "provider": "movantra",
+      "status": "pending",
+      "statusTokenHash": "2b6bb2b4c09dcc3d3ce58e778f4e1bb10e92816845dcc3ae93af3104a21004f8",
+      "createdAt": "2026-11-27T06:43:13.756Z",
+      "processedAt": null,
+      "pofPass": null,
+      "pofGeneratedAt": null,
+      "pofUsed": false,
+      "pofUsedAt": null
+    }
+  ]
+}
