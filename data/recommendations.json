@@ -70,5 +70,23 @@
     ],
     "reward": 4750,
     "updatedAt": "2026-11-27T06:38:09.386Z"
+  },
+  "creator-4": {
+    "creatorId": "creator-4",
+    "creatorName": "Smart BM",
+    "products": [
+      {
+        "name": "SOLAR LAMP",
+        "image": "https://raw.githubusercontent.com/soft-coachsmiley/softmedia-liora/main/uploads/recommendations/creator-4-7a627303-dd6b-4c3c-975c-992b8224718e-product-1.jpg",
+        "imagePath": "uploads/recommendations/creator-4-7a627303-dd6b-4c3c-975c-992b8224718e-product-1.jpg"
+      },
+      {
+        "name": "SOLAR FAN",
+        "image": "https://raw.githubusercontent.com/soft-coachsmiley/softmedia-liora/main/uploads/recommendations/creator-4-7a627303-dd6b-4c3c-975c-992b8224718e-product-2.jpg",
+        "imagePath": "uploads/recommendations/creator-4-7a627303-dd6b-4c3c-975c-992b8224718e-product-2.jpg"
+      }
+    ],
+    "reward": 4750,
+    "updatedAt": "2026-11-27T06:38:59.996Z"
   }
 }
