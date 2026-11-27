@@ -2,9 +2,9 @@
   "email": "joel88252@outlook.com",
   "balances": {
     "commission": 0,
-    "leisure": 22539,
+    "leisure": 46289,
     "video": 44665.270000000004,
-    "total": 67204.27
+    "total": 90954.27
   },
   "transactions": [
     {
@@ -94,7 +94,47 @@
       "source": "brand-status",
       "referenceId": "",
       "createdAt": "2026-11-26T08:10:39.869Z"
+    },
+    {
+      "id": "product-recommendation-creator-1:1795761665170",
+      "type": "leisure",
+      "amount": 4750,
+      "source": "product-recommendation",
+      "referenceId": "",
+      "createdAt": "2026-11-27T06:41:48.609Z"
+    },
+    {
+      "id": "product-recommendation-creator-2:1795761671330",
+      "type": "leisure",
+      "amount": 4750,
+      "source": "product-recommendation",
+      "referenceId": "",
+      "createdAt": "2026-11-27T06:41:48.609Z"
+    },
+    {
+      "id": "product-recommendation-creator-3:1795761676284",
+      "type": "leisure",
+      "amount": 4750,
+      "source": "product-recommendation",
+      "referenceId": "",
+      "createdAt": "2026-11-27T06:41:48.609Z"
+    },
+    {
+      "id": "product-recommendation-creator-4:1795761681613",
+      "type": "leisure",
+      "amount": 4750,
+      "source": "product-recommendation",
+      "referenceId": "",
+      "createdAt": "2026-11-27T06:41:48.609Z"
+    },
+    {
+      "id": "product-recommendation-creator-5:1795761686119",
+      "type": "leisure",
+      "amount": 4750,
+      "source": "product-recommendation",
+      "referenceId": "",
+      "createdAt": "2026-11-27T06:41:48.609Z"
     }
   ],
-  "updatedAt": "2026-11-26T08:10:39.869Z"
+  "updatedAt": "2026-11-27T06:41:48.609Z"
 }
