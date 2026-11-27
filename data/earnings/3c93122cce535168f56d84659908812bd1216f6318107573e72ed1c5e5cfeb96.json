@@ -3,8 +3,8 @@
   "balances": {
     "commission": 0,
     "leisure": 46289,
-    "video": 44665.270000000004,
-    "total": 90954.27
+    "video": 93611.36000000002,
+    "total": 139900.36
   },
   "transactions": [
     {
@@ -134,7 +134,55 @@
       "source": "product-recommendation",
       "referenceId": "",
       "createdAt": "2026-11-27T06:41:48.609Z"
+    },
+    {
+      "id": "chowdeck:e8df0cf8-4273-4eb5-9f79-382d07d2c888",
+      "type": "video",
+      "amount": 7603.34,
+      "source": "brand-status",
+      "referenceId": "",
+      "createdAt": "2026-11-27T07:11:57.130Z"
+    },
+    {
+      "id": "opay:dba5d5b2-6fc9-4c55-9c67-997239c713fa",
+      "type": "video",
+      "amount": 7695.37,
+      "source": "brand-status",
+      "referenceId": "",
+      "createdAt": "2026-11-27T07:11:57.130Z"
+    },
+    {
+      "id": "moniepoint:1a6ca8c7-e033-4783-941c-495f76b434d3",
+      "type": "video",
+      "amount": 7999.28,
+      "source": "brand-status",
+      "referenceId": "",
+      "createdAt": "2026-11-27T07:11:57.130Z"
+    },
+    {
+      "id": "okash:484ad12e-a32c-4ff1-bdb4-a6d6fb69a945",
+      "type": "video",
+      "amount": 9628.28,
+      "source": "brand-status",
+      "referenceId": "",
+      "createdAt": "2026-11-27T07:11:57.130Z"
+    },
+    {
+      "id": "sun-king:104292f3-0ce0-4061-93fa-ff2e998ca963",
+      "type": "video",
+      "amount": 7347.58,
+      "source": "brand-status",
+      "referenceId": "",
+      "createdAt": "2026-11-27T07:11:57.130Z"
+    },
+    {
+      "id": "bokku:d3ed9c75-e0fb-413c-8c00-4c3dc3f0f24f",
+      "type": "video",
+      "amount": 8672.24,
+      "source": "brand-status",
+      "referenceId": "",
+      "createdAt": "2026-11-27T07:11:57.130Z"
     }
   ],
-  "updatedAt": "2026-11-27T06:41:48.609Z"
+  "updatedAt": "2026-11-27T07:11:57.130Z"
 }
