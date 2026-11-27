@@ -70,5 +70,23 @@
     ],
     "reward": 4750,
     "updatedAt": "2026-11-27T06:38:59.996Z"
+  },
+  "creator-5": {
+    "creatorId": "creator-5",
+    "creatorName": "Luta Editz",
+    "products": [
+      {
+        "name": "AC",
+        "image": "https://raw.githubusercontent.com/soft-coachsmiley/softmedia-liora/main/uploads/recommendations/creator-5-f1b9de44-0e2a-4b38-a4a2-be61d6258c83-product-1.jpg",
+        "imagePath": "uploads/recommendations/creator-5-f1b9de44-0e2a-4b38-a4a2-be61d6258c83-product-1.jpg"
+      },
+      {
+        "name": "REFRIGERATOR",
+        "image": "https://raw.githubusercontent.com/soft-coachsmiley/softmedia-liora/main/uploads/recommendations/creator-5-f1b9de44-0e2a-4b38-a4a2-be61d6258c83-product-2.jpg",
+        "imagePath": "uploads/recommendations/creator-5-f1b9de44-0e2a-4b38-a4a2-be61d6258c83-product-2.jpg"
+      }
+    ],
+    "reward": 4750,
+    "updatedAt": "2026-11-27T06:39:46.849Z"
   }
 }
