@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "dba5d5b2-6fc9-4c55-9c67-997239c713fa",
+      "brandId": "opay",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/ZqbKmGGp/f692231702deaeec08c5b21598142b65.jpg",
+      "caption": "Bank with is today",
+      "active": true,
+      "createdAt": "2026-11-27T06:50:40.507Z"
+    },
+    {
       "id": "1a6ca8c7-e033-4783-941c-495f76b434d3",
       "brandId": "moniepoint",
       "mediaType": "image",
