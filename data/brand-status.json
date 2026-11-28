@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "379a9c81-57ea-490b-9902-0a0a5c03df64",
+      "brandId": "jumia",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/dVmPZs7D/b81e4809ac95c98cfca7f2e50d90ee77.jpg",
+      "caption": "Shop with is today",
+      "active": true,
+      "createdAt": "2026-11-28T07:28:38.624Z"
+    },
+    {
       "id": "c6070015-17c8-433a-ae27-d16c8cce06cd",
       "brandId": "mtn",
       "mediaType": "image",
