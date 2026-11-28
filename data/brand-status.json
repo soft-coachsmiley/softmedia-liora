@@ -29,15 +29,6 @@
       "createdAt": "2026-11-28T07:24:53.814Z"
     },
     {
-      "id": "893d4299-2a20-449c-88a2-aa3190d61e55",
-      "brandId": "jumia",
-      "mediaType": "image",
-      "mediaUrl": "https://i.postimg.cc/kXYkGkRM/1625ed2ce14add9cfd641c38702aa7cd.jpg",
-      "caption": "Order from us today",
-      "active": true,
-      "createdAt": "2026-11-27T06:53:59.832Z"
-    },
-    {
       "id": "efe1814f-e97b-409a-bbd5-c996a31be5aa",
       "brandId": "indomie",
       "mediaType": "image",
