@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "70fcf98c-fbe0-42e4-97d1-81297f7c6500",
+      "brandId": "uba",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/cLMMnHQL/3a6a3e0095e18fb972485b12af8adb2e.jpg",
+      "caption": "Bank with us",
+      "active": true,
+      "createdAt": "2026-11-28T07:43:28.453Z"
+    },
+    {
       "id": "20ebc366-75fc-4710-8f16-cd450bd8b6ad",
       "brandId": "zenith-bank",
       "mediaType": "image",
