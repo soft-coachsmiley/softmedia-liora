@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "1d286a0e-3cac-4770-b171-817799994170",
+      "brandId": "airtel",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/76BqGxWL/0177e17fd1e7fe13b6b1f8c1d566138c.jpg",
+      "caption": "Smart phone network",
+      "active": true,
+      "createdAt": "2026-11-28T07:26:52.120Z"
+    },
+    {
       "id": "6eaff621-6c7d-4385-8740-b29e5630e51c",
       "brandId": "chowdeck",
       "mediaType": "image",
