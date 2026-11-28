@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "aca6f4b5-9197-4f0d-892b-4b0330f02d63",
+      "brandId": "sterling-bank",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/DfrZFXF5/3ce8fb5211deaf83869a968c4c299c4f.jpg",
+      "caption": "Bank with us",
+      "active": true,
+      "createdAt": "2026-11-28T07:50:04.978Z"
+    },
+    {
       "id": "d2386daa-a43a-4c1f-9f79-38ace9a7afe1",
       "brandId": "fcmb",
       "mediaType": "image",
