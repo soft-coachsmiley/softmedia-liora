@@ -81,15 +81,6 @@
       "caption": "Shop from us today",
       "active": true,
       "createdAt": "2026-11-27T06:47:38.430Z"
-    },
-    {
-      "id": "e8df0cf8-4273-4eb5-9f79-382d07d2c888",
-      "brandId": "chowdeck",
-      "mediaType": "image",
-      "mediaUrl": "https://i.postimg.cc/nVDxyVXY/f50357f201f58f545aa677f7b13fc9ba.jpg",
-      "caption": "Order from us today",
-      "active": true,
-      "createdAt": "2026-11-27T06:46:41.235Z"
     }
   ]
 }
