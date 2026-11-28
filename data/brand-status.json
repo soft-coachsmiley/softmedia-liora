@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "00e8c287-5586-4cd2-8070-0d86413a5e8a",
+      "brandId": "interswitch",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/brkLVR2L/a12e73461ed765a411fd0f9912b3a8f6.jpg",
+      "caption": "",
+      "active": true,
+      "createdAt": "2026-11-28T08:02:57.468Z"
+    },
+    {
       "id": "9f97ca67-6b4d-4006-8f0b-6ef4bb401a00",
       "brandId": "paga",
       "mediaType": "image",
