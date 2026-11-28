@@ -81,15 +81,6 @@
       "caption": "Shop from with today",
       "active": true,
       "createdAt": "2026-11-28T07:24:53.814Z"
-    },
-    {
-      "id": "d3ed9c75-e0fb-413c-8c00-4c3dc3f0f24f",
-      "brandId": "bokku",
-      "mediaType": "image",
-      "mediaUrl": "https://i.postimg.cc/QNpPgF9s/8f34194671ffac0454163c1cea15c1f3.jpg",
-      "caption": "Shop from us today",
-      "active": true,
-      "createdAt": "2026-11-27T06:47:38.430Z"
     }
   ]
 }
