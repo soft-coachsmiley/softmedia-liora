@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "c6744dad-2aae-45b4-a2bb-c9c1650e7fe4",
+      "brandId": "bokku",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/nVYP1RFS/8f34194671ffac0454163c1cea15c1f3.jpg",
+      "caption": "Shop from us today",
+      "active": true,
+      "createdAt": "2026-11-28T07:35:58.020Z"
+    },
+    {
       "id": "8c3cd2f3-5184-4ff2-97a5-034344dcb98a",
       "brandId": "sun-king",
       "mediaType": "image",
