@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "a4c6ab01-5d44-4537-bcf4-27f73d9f12d4",
+      "brandId": "carbon",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/4ydF8c1Z/7ab9f1869885dbf59baaf451d5c5c10f.jpg",
+      "caption": "",
+      "active": true,
+      "createdAt": "2026-11-28T07:55:58.592Z"
+    },
+    {
       "id": "a9cda2ca-e2bf-4384-960c-a22eadfb5629",
       "brandId": "kuda",
       "mediaType": "image",
