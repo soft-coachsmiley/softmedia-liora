@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "1677cf80-d10a-4a01-b860-8bc009a028f6",
+      "brandId": "okash",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/bwNcbX1W/814e00e870783b2b89677c48c4d58fd3.jpg",
+      "caption": "",
+      "active": true,
+      "createdAt": "2026-11-28T07:32:14.787Z"
+    },
+    {
       "id": "e96919ce-0c44-417f-ad89-bbae2fd18c1d",
       "brandId": "moniepoint",
       "mediaType": "image",
