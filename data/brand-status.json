@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "6eaff621-6c7d-4385-8740-b29e5630e51c",
+      "brandId": "chowdeck",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/VLkbVvwy/f50357f201f58f545aa677f7b13fc9ba.jpg",
+      "caption": "Shop from with today",
+      "active": true,
+      "createdAt": "2026-11-28T07:24:53.814Z"
+    },
+    {
       "id": "ec4eabd5-7961-42af-ae7a-5863f03a530a",
       "brandId": "airtel",
       "mediaType": "image",
