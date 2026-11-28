@@ -3,8 +3,8 @@
   "balances": {
     "commission": 0,
     "leisure": 51039,
-    "video": 93611.36000000002,
-    "total": 144650.36
+    "video": 101273.88000000002,
+    "total": 152312.87999999998
   },
   "transactions": [
     {
@@ -190,7 +190,15 @@
       "source": "product-recommendation",
       "referenceId": "",
       "createdAt": "2026-11-28T07:22:40.340Z"
+    },
+    {
+      "id": "chowdeck:6eaff621-6c7d-4385-8740-b29e5630e51c",
+      "type": "video",
+      "amount": 7662.52,
+      "source": "brand-status",
+      "referenceId": "",
+      "createdAt": "2026-11-28T07:45:04.565Z"
     }
   ],
-  "updatedAt": "2026-11-28T07:22:40.340Z"
+  "updatedAt": "2026-11-28T07:45:04.565Z"
 }
