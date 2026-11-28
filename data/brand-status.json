@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "c6070015-17c8-433a-ae27-d16c8cce06cd",
+      "brandId": "mtn",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/W1Mjmmy2/9517028b7074f61c16eb8ddb34362f2a.jpg",
+      "caption": "Everywhere you go",
+      "active": true,
+      "createdAt": "2026-11-28T07:27:51.667Z"
+    },
+    {
       "id": "1d286a0e-3cac-4770-b171-817799994170",
       "brandId": "airtel",
       "mediaType": "image",
