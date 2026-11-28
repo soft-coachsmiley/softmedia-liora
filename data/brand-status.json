@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "80feaf68-e0d8-4bf3-9970-d5c32af93aad",
+      "brandId": "fairmoney",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/9MNBQnyY/aebff4658ff194c8bc93531791af8dda.jpg",
+      "caption": "",
+      "active": true,
+      "createdAt": "2026-11-28T07:59:06.005Z"
+    },
+    {
       "id": "cd499317-4652-4a4b-9d46-6183da392893",
       "brandId": "palmpay",
       "mediaType": "image",
