@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "e6c9e7bc-6983-47d1-bade-0472cd07e0f1",
+      "brandId": "gtbank",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/3xppg670/2cad75b56c7bab5d6e4131c0f6be0d80.jpg",
+      "caption": "Bank with us",
+      "active": true,
+      "createdAt": "2026-11-28T07:39:21.628Z"
+    },
+    {
       "id": "b57c69e0-25a0-4e70-bf20-bb02ff7bae12",
       "brandId": "dangote",
       "mediaType": "image",
