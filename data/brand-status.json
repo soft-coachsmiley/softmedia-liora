@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "8c3cd2f3-5184-4ff2-97a5-034344dcb98a",
+      "brandId": "sun-king",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/QM2yfvW8/235b12e05574d301de18fa981acb5755-(1).jpg",
+      "caption": "Solar energy",
+      "active": true,
+      "createdAt": "2026-11-28T07:35:02.419Z"
+    },
+    {
       "id": "1677cf80-d10a-4a01-b860-8bc009a028f6",
       "brandId": "okash",
       "mediaType": "image",
