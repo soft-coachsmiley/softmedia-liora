@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "cd499317-4652-4a4b-9d46-6183da392893",
+      "brandId": "palmpay",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/k5v1qs1r/580c3025cd57344e06d56381c2224fa3.jpg",
+      "caption": "Bank with us today",
+      "active": true,
+      "createdAt": "2026-11-28T07:57:17.798Z"
+    },
+    {
       "id": "a4c6ab01-5d44-4537-bcf4-27f73d9f12d4",
       "brandId": "carbon",
       "mediaType": "image",
