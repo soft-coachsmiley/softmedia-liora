@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "20ebc366-75fc-4710-8f16-cd450bd8b6ad",
+      "brandId": "zenith-bank",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/zvgD9sxn/fe523570a0d654aef3cf86006460127b.jpg",
+      "caption": "Bank with us",
+      "active": true,
+      "createdAt": "2026-11-28T07:42:21.995Z"
+    },
+    {
       "id": "7736c888-fd38-4019-b287-1bf36d6a097d",
       "brandId": "firstbank",
       "mediaType": "image",
