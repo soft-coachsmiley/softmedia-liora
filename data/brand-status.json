@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "a9cda2ca-e2bf-4384-960c-a22eadfb5629",
+      "brandId": "kuda",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/K8wFtGxm/6e18ea60f59d1f28f6eb18897d4a1d53.jpg",
+      "caption": "Bank with us today",
+      "active": true,
+      "createdAt": "2026-11-28T07:52:00.693Z"
+    },
+    {
       "id": "40ef9e70-7a4c-436b-9666-8319ebb1f4f2",
       "brandId": "union-bank",
       "mediaType": "image",
