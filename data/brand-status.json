@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "67b9c683-bf89-45b3-9dc6-44d5bb3441bd",
+      "brandId": "indomie",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/pLxV61zR/5d3e108f60cf4411383d7db9ad5cc2cd.jpg",
+      "caption": "Tasty 😋",
+      "active": true,
+      "createdAt": "2026-11-28T07:29:28.726Z"
+    },
+    {
       "id": "379a9c81-57ea-490b-9902-0a0a5c03df64",
       "brandId": "jumia",
       "mediaType": "image",
