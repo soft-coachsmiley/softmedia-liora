@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "9890d7f7-7439-4fee-8d65-e1523f5c5b41",
+      "brandId": "opay",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/kGK9jx5Y/c8f5c5a68105016e2d3e993b1b37ca2a.jpg",
+      "caption": "",
+      "active": true,
+      "createdAt": "2026-11-28T07:30:15.948Z"
+    },
+    {
       "id": "67b9c683-bf89-45b3-9dc6-44d5bb3441bd",
       "brandId": "indomie",
       "mediaType": "image",
