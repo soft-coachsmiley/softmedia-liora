@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "b7faf638-029b-4102-801f-590b2f58e42f",
+      "brandId": "access-bank",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/ydNkrrqy/f5887ba581c413101c52e41cf9aadacc.jpg",
+      "caption": "Bank with us",
+      "active": true,
+      "createdAt": "2026-11-28T07:40:24.287Z"
+    },
+    {
       "id": "e6c9e7bc-6983-47d1-bade-0472cd07e0f1",
       "brandId": "gtbank",
       "mediaType": "image",
