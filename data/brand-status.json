@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "40ef9e70-7a4c-436b-9666-8319ebb1f4f2",
+      "brandId": "union-bank",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/vThbn5Zw/ffbd1eb386e2bb7ae60ac6297179651a.jpg",
+      "caption": "Bank with us",
+      "active": true,
+      "createdAt": "2026-11-28T07:51:01.417Z"
+    },
+    {
       "id": "aca6f4b5-9197-4f0d-892b-4b0330f02d63",
       "brandId": "sterling-bank",
       "mediaType": "image",
