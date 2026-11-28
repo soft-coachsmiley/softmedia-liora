@@ -3,8 +3,8 @@
   "balances": {
     "commission": 0,
     "leisure": 51039,
-    "video": 101273.88000000002,
-    "total": 152312.87999999998
+    "video": 109131.78000000001,
+    "total": 160170.77999999997
   },
   "transactions": [
     {
@@ -198,7 +198,15 @@
       "source": "brand-status",
       "referenceId": "",
       "createdAt": "2026-11-28T07:45:04.565Z"
+    },
+    {
+      "id": "okash:1677cf80-d10a-4a01-b860-8bc009a028f6",
+      "type": "video",
+      "amount": 7857.9,
+      "source": "brand-status",
+      "referenceId": "",
+      "createdAt": "2026-11-28T10:05:05.891Z"
     }
   ],
-  "updatedAt": "2026-11-28T07:45:04.565Z"
+  "updatedAt": "2026-11-28T10:05:05.891Z"
 }
