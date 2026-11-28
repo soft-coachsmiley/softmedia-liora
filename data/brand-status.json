@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "d2386daa-a43a-4c1f-9f79-38ace9a7afe1",
+      "brandId": "fcmb",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/DZbS1jtx/4058a221f33a8d44a3fdeb760bc55f72.jpg",
+      "caption": "Bank with us",
+      "active": true,
+      "createdAt": "2026-11-28T07:47:21.212Z"
+    },
+    {
       "id": "d0a1167b-00d0-4e12-a879-1467c0370d02",
       "brandId": "fidelity-bank",
       "mediaType": "image",
